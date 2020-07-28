@@ -1,213 +1,382 @@
 #EXTM3U
 
-#EXTINF:-1,~BARINUI~                                     
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/83040
-#EXTINF:-1,RCTI
-https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta.m3u8
-#EXTINF:-1,GTV
-https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta.m3u8
-#EXTINF:-1,MNC
-https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta.m3u8
-#EXTINF:-1,INEWS
-https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta.m3u8
-#EXTINF:-1,EUROSPORT 1 UHD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/77881
-#EXTINF:-1,EUROSPORT 2 UHD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/77882
-#EXTINF:-1,Varzesh TV
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/76392
-#EXTINF:-1,Varzesh TV
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/76537
-#EXTINF:-1,Varzesh 2 TV
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/76538
-#EXTINF:-1,SONY PIX HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/77524
-#EXTINF:-1,SONY YAY
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/77529
-#EXTINF:-1,AND FLIX HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79154
-#EXTINF:-1,AND PRIVE HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79155
-#EXTINF:-1,ANIMAL PLANET WORLD HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79156
-#EXTINF:-1,AXN HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79157
-#EXTINF:-1,CARTOON NETWORK
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79159
-#EXTINF:-1,CARTOON NETWORK PLUS HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79160
-#EXTINF:-1,DISNEY
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79165
-#EXTINF:-1,DISNEY INTERNATIONAL HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79166
-#EXTINF:-1,DISNEY XD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79167
-#EXTINF:-1,HBO INDIA HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79170
-#EXTINF:-1,MN PLUS HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79173
-#EXTINF:-1,MNX HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79174
-#EXTINF:-1,MOVIES NOW HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79175
-#EXTINF:-1,NAT GEO WILD HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79178
-#EXTINF:-1,NATIONAL GEOGRAPHIC HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79179
-#EXTINF:-1,ROMEDY NOW HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79181
-#EXTINF:-1,SONY BBC EARTH ENGLISH HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79182
-#EXTINF:-1,STAR MOVIES HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79183
-#EXTINF:-1,STAR MOVIES SELECT HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79184
-#EXTINF:-1,STAR WORLD HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79185
-#EXTINF:-1,STAR WORLD PREMIER HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79186
-#EXTINF:-1,TATA SKY KIDS CINEMA
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79187
-#EXTINF:-1,TATA SKY WORLD CINEMA HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79188
-#EXTINF:-1,WARNER BROS
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79194
-#EXTINF:-1,ZEE CAFE HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79195
-#EXTINF:-1,SPORTS HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/80342
-#EXTINF:-1,SONY ESPN HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/80343
-#EXTINF:-1,SONY SIX HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/80344
-#EXTINF:-1,SPORTS 1 ENGLISH HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/80345
-#EXTINF:-1,SPORTS 1 HINDI HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/80346
-#EXTINF:-1,SPORTS 2 HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/80347
-#EXTINF:-1,SPORTS 3
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/80348
-#EXTINF:-1,SPORTS SELECT 1 HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/80349
-#EXTINF:-1,SPORTS SELECT 2 HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/80350
-#EXTINF:-1,SPORTS TAMIL
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/80351
-#EXTINF:-1,TEN 1 HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/80352
-#EXTINF:-1,TEN 2 HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/80353
-#EXTINF:-1,TEN 3 HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/80354
-#EXTINF:-1,SUPERSPORT 1 HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/53619
-#EXTINF:-1,SUPERSPORT 2 HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/53620
-#EXTINF:-1,SUPERSPORT 3 HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/53621
-#EXTINF:-1,SUPERSPORT 4 HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/53622
-#EXTINF:-1,SUPERSPORT 5 HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/53623
-#EXTINF:-1,SUPERSPORT 6 HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/53624
-#EXTINF:-1,SUPERSPORT 7 HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/53625
-#EXTINF:-1,SUPERSPORT 8 HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/53626
-#EXTINF:-1,SUPERSPORT 9 HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/53627
-#EXTINF:-1,SUPERSPORT 10 HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/53628
-#EXTINF:-1,SUPERSPORT 11 HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/53629
-#EXTINF:-1,SUPERSPORT 12 HD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/53630
-#EXTINF:-1,BeinSport 1 FHD	
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/60958
-#EXTINF:-1,BeinSport 2 FHD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/28751
-#EXTINF:-1,BeinSport 3 FHD	
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/60959
-#EXTINF:-1,BeinSport 4 FHD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/36302
-#EXTINF:-1,BeinSport 5 FHD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/36301
-#EXTINF:-1,BeinSport 6 FHD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/36300
-#EXTINF:-1,BeinSport 7 FHD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/36299
-#EXTINF:-1,BeinSport 8 FHD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/36298
-#EXTINF:-1,BeinSport 9 FHD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/36297
-#EXTINF:-1,BeinSport 10 FHD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/36296
-#EXTINF:-1,BeinSport 11 FHD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/36295
-#EXTINF:-1,BeinSport 12 FHD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/36294
-#EXTINF:-1,BeinSport 13 FHD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/36293
-#EXTINF:-1,BeinSport 14 FHD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/63499
-#EXTINF:-1,BeinSport 15 FHD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/63500
-#EXTINF:-1,BeinSport 16 FHD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/63501
-#EXTINF:-1,NBC Sports Network                                  
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/83031
-#EXTINF:-1,Match! FHD
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/46229
-#EXTINF:-1,REN TV
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/46267
-#EXTINF:-1,SPORTKLUB 1 (SR)
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79771
-#EXTINF:-1,SPORTKLUB 2 (SR)
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79772
-#EXTINF:-1,SPORTKLUB 3 (SR)
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79773
-#EXTINF:-1,SPORT KLUB 1(HR)
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79774
-#EXTINF:-1,SPORT KLUB 2 (HR)
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79775
-#EXTINF:-1,SPORT KLUB 3 (HR)
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79776
-#EXTINF:-1,SPORT KLUB 4 (HR)
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79777
-#EXTINF:-1,SPORT KLUB 5 (HR)
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79778
-#EXTINF:-1,SPORT KLUB 6 (HR)
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79779
-#EXTINF:-1,SPORT KLUB 7 (HR)
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79780
-#EXTINF:-1,SPORT KLUB 8 (HR)
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79781
-#EXTINF:-1,SPORT KLUB 9 (HR)
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79782
-#EXTINF:-1,SPORT KLUB 10 (HR)
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79783
-#EXTINF:-1,ARENA SPORT 1 BIH
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79784
-#EXTINF:-1,ARENA SPORT 1 (SR)
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79785
-#EXTINF:-1,ARENA SPORT 2 (SR)
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79786
-#EXTINF:-1,ARENA SPORT 3 (SR)
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79787
-#EXTINF:-1,ARENA SPORT 4 (SR)
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79788
-#EXTINF:-1,ARENA SPORT 1 (HR)
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79789
-#EXTINF:-1,ARENA SPORT 2 (HR)
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79790
-#EXTINF:-1,ARENA SPORT 3 (HR)
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79791
-#EXTINF:-1,ARENA SPORT 4 (HR)
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79792
-#EXTINF:-1,ARENA SPORT 5 (HR)
-http://stream.iptvesun.com:25461/Y70onKQ7tcbXCSN/FFFEzHDGBvZSRhr/79793
-
-
-
+#EXTINF:-1,~BARINUI~
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/17087
+#EXTINF:-1,GTV [TC][HD]720p
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1,GTV [TC]540p
+https://vcdn2.rctiplus.id/live/eds/gtv_fta/live_fta/gtv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+#EXTINF:-1,MNC [TC][HD]720p
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1,MNC [TC]540p
+https://vcdn2.rctiplus.id/live/eds/mnctv_fta/live_fta/mnctv_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+#EXTINF:-1,RCTI [TC][HD]720p
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1,RCTI [TC]540p
+https://vcdn2.rctiplus.id/live/eds/rcti_fta/live_fta/rcti_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+#EXTINF:-1,INEWS [TC][HD]720p
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_2000000=1-mp4a_64000_eng=2.m3u8
+#EXTINF:-1,INEWS [TC][540p
+https://vcdn2.rctiplus.id/live/eds/inews_fta/live_fta/inews_fta-avc1_1000000=3-mp4a_64000_eng=2.m3u8
+#EXTINF:-1,Ren TV RU
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/4780
+#EXTINF:-1,РЕН ТВ RU
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/27225
+#EXTINF:-1,Match! RU
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/4772
+#EXTINF:-1,КАРУСЕЛЬ RU
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/27189
+#EXTINF:-1,Eurosport 1 FHD VIP UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/10868
+#EXTINF:-1,Eurosport 1 HD UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/1812
+#EXTINF:-1,Eurosport 2 FHD VIP UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/10867
+#EXTINF:-1,Eurosport 2 HD UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/1811
+#EXTINF:-1,ASTRO SUPERSPORTS 1 FHD MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/18623
+#EXTINF:-1,ASTRO SUPERSPORTS 2 FHD MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/18622
+#EXTINF:-1,ASTRO SUPERSPORTS 3 FHD MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/18621
+#EXTINF:-1,ASTRO SUPERSPORTS 4 FHD MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/18620
+#EXTINF:-1,ASTRO ARENA HD MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/18632
+#EXTINF:-1,SuperSport 1 FHD AF VIP
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/74003
+#EXTINF:-1,SuperSport 2 FHD AF VIP
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/73999
+#EXTINF:-1,SuperSport 3 FHD AF VIP
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/73998
+#EXTINF:-1,SuperSport 4 FHD AF VIP
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/73997
+#EXTINF:-1,SuperSport 5 FHD AF VIP
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/73996
+#EXTINF:-1,SuperSport 6 FHD AF VIP
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/73995
+#EXTINF:-1,SuperSport 7 FHD AF VIP
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/73994
+#EXTINF:-1,SuperSport 8 FHD AF VIP
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/73993
+#EXTINF:-1,SuperSport 9 FHD AF VIP
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/73992
+#EXTINF:-1,SuperSport 10 FHD AF VIP
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/74002
+#EXTINF:-1,SuperSport 11 FHD AF VIP
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/74001
+#EXTINF:-1,SuperSport 12 FHD AF VIP
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/74000
+#EXTINF:-1,Supersport Blitz FHD AF VIP
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/73991
+#EXTINF:-1,BOLLY ONE HD MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/18606
+#EXTINF:-1,SkyNet Sports 1 MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/1159
+#EXTINF:-1,SkyNet Sports 2 MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/1158
+#EXTINF:-1,SkyNet Sports 3 MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/1157
+#EXTINF:-1,SkyNet Sports 4 MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/1156
+#EXTINF:-1,SkyNet Sports 5 MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/1155
+#EXTINF:-1,SkyNet Sports 6 MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/1154
+#EXTINF:-1,TV1 MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/1359
+#EXTINF:-1,TV2 MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/1358
+#EXTINF:-1,TV3 HD MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/29594
+#EXTINF:-1,TV3 MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/1357
+#EXTINF:-1,ANTV ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62297
+#EXTINF:-1,AXN ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62293
+#EXTINF:-1,Al Jazeera English ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62301
+#EXTINF:-1,Al Quran Al Karem ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62300
+#EXTINF:-1,Animal Planet ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62299
+#EXTINF:-1,Animax ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62298
+#EXTINF:-1,BBC Cbeebies ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62290
+#EXTINF:-1,BBC Earth ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62289
+#EXTINF:-1,BBC World News ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62288
+#EXTINF:-1,Baby TV ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62292
+#EXTINF:-1,Bali TV ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62291
+#EXTINF:-1,Berita Satu ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62284
+#EXTINF:-1,Boomerang 1 ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62281
+#EXTINF:-1,CCM ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62278
+#EXTINF:-1,CNN ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62272
+#EXTINF:-1,Cartoon Network ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62279
+#EXTINF:-1,Celestial Movies ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62276
+#EXTINF:-1,Cinema World ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62274
+#EXTINF:-1,Crime Investigation ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62270
+#EXTINF:-1,Discovery Channel ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62268
+#EXTINF:-1,Disney Channel ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62267
+#EXTINF:-1,Disney Junior ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62266
+#EXTINF:-1,Disney XD ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62265
+#EXTINF:-1,Fight Sports ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62258
+#EXTINF:-1,Food Network ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62256
+#EXTINF:-1,Fox Crime ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62254
+#EXTINF:-1,Fox Family Movies ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62253
+#EXTINF:-1,Fox ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62255
+#EXTINF:-1,Fox Life ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62252
+#EXTINF:-1,Fox Movies Action ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62250
+#EXTINF:-1,Fox Movies ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62251
+#EXTINF:-1,Fox Sports 1 ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62248
+#EXTINF:-1,Fox Sports 2 ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62247
+#EXTINF:-1,Fox Sports 3 ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62246
+#EXTINF:-1,GTV ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62243
+#EXTINF:-1,HBO SIGNATURE ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62174
+#EXTINF:-1,HBO HITS ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62173
+#EXTINF:-1,HBO FAMILY ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62172
+#EXTINF:-1,HBO RED ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62171
+#EXTINF:-1,HBO CINEMAX ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62170
+#EXTINF:-1,TVRI ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62177
+#EXTINF:-1,History ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62240
+#EXTINF:-1,Hits ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62239
+#EXTINF:-1,Hits Movies ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62238
+#EXTINF:-1,Indosiar ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62236
+#EXTINF:-1,KIX ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62230
+#EXTINF:-1,Kids Channel ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62231
+#EXTINF:-1,Kompas TV 1 ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62229
+#EXTINF:-1,Life ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62227
+#EXTINF:-1,Life Style Fashion ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62226
+#EXTINF:-1,Life Time ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62225
+#EXTINF:-1,MNC Sports ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62216
+#EXTINF:-1,MNCTV ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62214
+#EXTINF:-1,MYTV ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62211
+#EXTINF:-1,Movie Channel ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62213
+#EXTINF:-1,Music Channel ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62212
+#EXTINF:-1,NET.1 ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62207
+#EXTINF:-1,Nat Geo ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62210
+#EXTINF:-1,Nat Geo People ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62209
+#EXTINF:-1,Nat Geo Wild ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62208
+#EXTINF:-1,Nick ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62202
+#EXTINF:-1,Nick JR ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62201
+#EXTINF:-1,RCTI ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62199
+#EXTINF:-1,RTV5 Makin Cakep 1 ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62197
+#EXTINF:-1,SCM ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62195
+#EXTINF:-1,SCM Legend ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62194
+#EXTINF:-1,SCTV ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62193
+#EXTINF:-1,Soccer Channel ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62191
+#EXTINF:-1,Sony One ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62190
+#EXTINF:-1,TV One ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62181
+#EXTINF:-1,TVN ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62179
+#EXTINF:-1,TVN Movies ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62178
+#EXTINF:-1,TVRI Olahraga ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62155
+#EXTINF:-1,Thrill ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62189
+#EXTINF:-1,Trans TV ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62186
+#EXTINF:-1,Trans7 ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62187
+#EXTINF:-1,Travel Home ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62185
+#EXTINF:-1,V Channel ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62144
+#EXTINF:-1,Waku Waku Japan ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62143
+#EXTINF:-1,Warner TV ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62142
+#EXTINF:-1,Zee Bioskop ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62141
+#EXTINF:-1,Zee Cinema ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62140
+#EXTINF:-1,Zee TV ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62138
+#EXTINF:-1,Zing ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62137
+#EXTINF:-1,beIN Sports 1 ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62286
+#EXTINF:-1,beIN Sports 2 ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62287
+#EXTINF:-1,iNews ID
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/62235
+#EXTINF:-1,Sky Box Office UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/1806
+#EXTINF:-1,Sky Cinema Action & Adventure HD UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/351
+#EXTINF:-1,Sky Cinema Action & Adventure UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/352
+#EXTINF:-1,Sky Cinema Action FHD VIP UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/10849
+#EXTINF:-1,Sky Cinema Action HD VIP UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/10788
+#EXTINF:-1,Sky Cinema Animation HD VIP UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/10787
+#EXTINF:-1,Sky Cinema Box Office 1 FHD UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/5726
+#EXTINF:-1,Sky Cinema Box Office 2 FHD UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/5725
+#EXTINF:-1,Sky Cinema Box Office 3D FHD UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/5724
+#EXTINF:-1,Sky Cinema Box Office 3D UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/5727
+#EXTINF:-1,Sky Cinema Box Office 4 FHD UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/5723
+#EXTINF:-1,Sky Cinema Comedy FHD VIP UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/10847
+#EXTINF:-1,Sky Cinema Comedy HD UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/349
+#EXTINF:-1,Sky Cinema Comedy HD VIP UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/10786
+#EXTINF:-1,Sky Cinema Comedy UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/350
+#EXTINF:-1,Sky Cinema Crime & Thriller FHD UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/338
+#EXTINF:-1,Sky Cinema Crime & Thriller UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/348
+#EXTINF:-1,Sky Cinema Disney FHD VIP UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/10846
+#EXTINF:-1,Sky Cinema Disney HD UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/346
+#EXTINF:-1,Sky Cinema Disney HD VIP UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/10785
+#EXTINF:-1,Sky Cinema Disney UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/347
+#EXTINF:-1,Sky Cinema Drama & Romance UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/345
+#EXTINF:-1,Sky Cinema Drama FHD VIP UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/10845
+#EXTINF:-1,Sky Cinema Drama HD VIP UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/10784
+#EXTINF:-1,Sky Cinema Family HD UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/343
+#EXTINF:-1,Sky Cinema Family UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/344
+#EXTINF:-1,Sky Cinema Greats FHD VIP UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/10844
+#EXTINF:-1,Sky Cinema Greats HD VIP UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/10783
+#EXTINF:-1,Sky Cinema Greats UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/342
+#EXTINF:-1,Sky Cinema Hits FHD VIP UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/10842
+#EXTINF:-1,Sky Cinema Hits HD VIP UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/10781
+#EXTINF:-1,Sky Cinema Oscars UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/1823
+#EXTINF:-1,Sky Cinema Premiere +1 UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/1824
+#EXTINF:-1,Sky Cinema Premiere FHD VIP UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/10841
+#EXTINF:-1,Sky Cinema Premiere HD VIP UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/10780
+#EXTINF:-1,Sky Cinema Premiere UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/341
+#EXTINF:-1,Sky Cinema Sci-Fi & Horror UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/340
+#EXTINF:-1,Sky Cinema Select FHD VIP UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/10840
+#EXTINF:-1,Sky Cinema Select HD VIP UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/10779
+#EXTINF:-1,Sky Cinema Select UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/339
+#EXTINF:-1,Sky Cinema Thriller FHD VIP UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/10839
+#EXTINF:-1,Sky Cinema Thriller HD VIP UK
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/10778
+#EXTINF:-1,FOX ACTION MOVIES HD MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/29583
+#EXTINF:-1,FOX FAMILY MOVIES HD MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/18592
+#EXTINF:-1,FOX LIFE HD MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/18591
+#EXTINF:-1,FOX MOVIES HD MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/18590
+#EXTINF:-1,FOX SPORTS 1 MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/18589
+#EXTINF:-1,FOX SPORTS 2 MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/18588
+#EXTINF:-1,FOX SPORTS 3 MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/18587
+#EXTINF:-1,FOX TV HD MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/18586
+#EXTINF:-1,FX CINEMA HD MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/18585
+#EXTINF:-1,Fox Movies Action HD MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/1362
+#EXTINF:-1,Fox Movies Premium MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/1361
+#EXTINF:-1,BBC EARTH HD MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/18610
+#EXTINF:-1,DISCOVERY CHANNEL MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/18600
+#EXTINF:-1,ANIMAL PLANET MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/18636
+#EXTINF:-1,NAT GEO WILD HD MY
+http://mickytv.streamtv.to:8080/Matthev-ArmandoClausi-1/T9ZDF12Yau/18569
